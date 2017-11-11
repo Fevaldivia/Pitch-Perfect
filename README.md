@@ -17,6 +17,10 @@ And if you need to check **Xcode** version just go to the upper left corner with
 called **Xcode** and select the first option named **About Xcode** inside that option you can see the version that you
 are using. 
 
+# Dependencies
+
+[AV Foundation](https://developer.apple.com/av-foundation/) : AV Foundation is the full featured framework for working with time-based audiovisual media on iOS, macOS, watchOS and tvOS.
+
 # License
 
 Pitch Perfect project is released under the [MIT License](https://opensource.org/licenses/MIT)
